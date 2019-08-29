@@ -1,5 +1,4 @@
 package com.single_linkedList;
-
 public class LinkedListInsertion {
 	class Node{
 		String data;
